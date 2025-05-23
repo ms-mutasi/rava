@@ -1,6 +1,6 @@
 export async function getServerSideProps({ res }) {
-  const merchant_id = "OK2423358";
-  const merchant_code = "457289017466854822423358OKCTEFD8A0745371DCAC9956F8BABB8CFB48"
+  const merchant_id = "OK2458525";
+  const merchant_code = "627249317479237742458525OKCT7FDD3613FA0420E5ECEBE1DCEA590633"
 
   try {
     const apiRes = await fetch(
